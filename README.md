@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 정희원 | Fullstack Developer
 
-<!--
-**toma9512/toma9512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+실시간 서비스 구조에 관심 있는 풀스택 개발자입니다.
 
-Here are some ideas to get you started:
+React + Spring Boot 기반으로  
+채팅, 알림, 지도, AI 추천이 포함된 웹 서비스를 직접 설계/구현했습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 대표 프로젝트 – Route-In
+
+운동 커뮤니티 웹 서비스
+
+### 주요 기능
+- 실시간 채팅 + 알림
+- 게시글 CRUD + 댓글 + 추천
+- 러닝 코스 지도
+- 주간 운동 루틴
+- AI 운동 추천
+- 인바디 그래프
+- 출석 시스템
+
+### 기술 스택
+**Frontend**
+React / MUI / React Query / WebSocket
+
+**Backend**
+Spring Boot / MyBatis
+
+**DB**
+MySQL
+
+---
+
+## 📎 Links
+
+- 🧠 Notion Portfolio: https://innate-rice-dda.notion.site/Route-In-2fc7935ce51c800289a0f6f3e2e8be20?source=copy_link
+- 🎨 Frontend Repo: https://github.com/Koreait-Triple-Stack/route_in_frontend
+- ⚙ Backend Repo: https://github.com/Koreait-Triple-Stack/route_in_backend
+
+---
+
+## 📚 관심 분야
+
+- 실시간 시스템
+- 서비스 아키텍처
+- UX 디테일
+- Backend 설계
+
+---
+
+감사합니다 🙂
