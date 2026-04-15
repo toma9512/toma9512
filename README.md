@@ -34,9 +34,9 @@ MySQL
 
 ## 📎 Links
 
-- 🧠 Notion Portfolio: https://innate-rice-dda.notion.site/Route-In-2fc7935ce51c800289a0f6f3e2e8be20?source=copy_link
-- 🎨 Frontend Repo: https://github.com/Koreait-Triple-Stack/route_in_frontend
-- ⚙ Backend Repo: https://github.com/Koreait-Triple-Stack/route_in_backend
+- 🧠 Notion Portfolio: https://well-group-b12.notion.site/31f560d3713f8098b275d7074c98686e?source=copy_link
+- 🎨 Frontend Repo: https://github.com/toma9512/route-in-frontend
+- ⚙ Backend Repo: https://github.com/toma9512/route-in-backend
 
 ---
 
